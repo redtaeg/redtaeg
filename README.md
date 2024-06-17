@@ -13,7 +13,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
-<img src="https://img.shields.io/badge/EclipseIDE-#2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/> 
+<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/> 
 <br>
 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
