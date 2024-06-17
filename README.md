@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 
+ <img src="https://img.shields.io/badge/Jpa-2496ED?style=flat-square&logo=Jpa&logoColor=white"/>
+
 
 
 
